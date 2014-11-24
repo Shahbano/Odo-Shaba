@@ -1,10 +1,12 @@
 #social-buttons button {
   color: white;
 }
+
 #mission {
   background-color: rgba(32, 35, 41, 0.9);
-  font-color: #ddd;
+  color: white;
 }
+
 body {
   padding-top: 70px;
 }
