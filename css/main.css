@@ -12,7 +12,11 @@ body {
   background-position: top;
   background-image: url('../images/books.jpg');
   background-repeat: repeat;
+  font-color: white;
 }
 #menu button {
   color:yellow;
+}
+.my_buttons{
+  background-color: yellow;
 }
