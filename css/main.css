@@ -14,14 +14,19 @@ body {
   background-position: top;
   background-image: url('../images/books.jpg');
   background-repeat: repeat;
-  font-color: white;
+  color: white;
 }
-#menu button {
+#menu-button {
   color:yellow;
 }
 .my_buttons{
   background-color: rgba(0,0,0,0.6);
+  color: yellow;
 }
 .my-text{
   font-color: black;
+}
+
+.container {
+  color:pink;
 }
